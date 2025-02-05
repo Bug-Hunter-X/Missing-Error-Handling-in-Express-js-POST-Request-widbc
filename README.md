@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications: missing error handling for POST requests. The `bug.js` file shows the problematic code, where the server doesn't handle cases where the request body is missing or contains invalid data.  The `bugSolution.js` file provides a corrected version with comprehensive error handling.
